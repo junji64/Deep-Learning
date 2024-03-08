@@ -8,4 +8,4 @@
 
 [04. Deep Neural Networks](https://github.com/junji64/Deep-Learning/blob/main/04.%20Deep%20Neural%20Networks.ipynb)
 
-[05. Practical Aspect of Deep Learning](https://junji64.github.io/Deep-Learning/05.%20Practical%20Aspects%20of%20Deep%20Learning.ipynb)
+[05. Practical Aspect of Deep Learning](https://github.com/junji64/Deep-Learning/blob/main/05.%20Practical%20Aspects%20of%20Deep%20Learning.ipynb)
