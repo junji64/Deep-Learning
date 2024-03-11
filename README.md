@@ -22,4 +22,4 @@
 
 [11. CNN Case studies](https://github.com/junji64/Deep-Learning/blob/main/11.%20CNN%20Case%20studies.ipynb)
 
-[12. 
+[12. Object Detection](https://github.com/junji64/Deep-Learning/blob/main/12.%20Object%20Detection.ipynb)
