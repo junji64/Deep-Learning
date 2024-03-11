@@ -23,3 +23,5 @@
 [11. CNN Case studies](https://github.com/junji64/Deep-Learning/blob/main/11.%20CNN%20Case%20studies.ipynb)
 
 [12. Object Detection](https://github.com/junji64/Deep-Learning/blob/main/12.%20Object%20Detection.ipynb)
+
+[13. Face recognition & Neural style transfer](https://github.com/junji64/Deep-Learning/blob/main/13.%20Face%20recognition%20%26%20Neural%20style%20transfer.ipynb)
