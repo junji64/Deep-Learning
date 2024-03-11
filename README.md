@@ -19,3 +19,7 @@
 [09. ...]()
 
 [10. Convolutional Neural Networks](https://github.com/junji64/Deep-Learning/blob/main/10.%20Convolutional%20Neural%20Networks.ipynb)
+
+[11. CNN Case studies](https://github.com/junji64/Deep-Learning/blob/main/11.%20CNN%20Case%20studies.ipynb)
+
+[12. 
